@@ -1,0 +1,13 @@
+@keyframes blink {  
+  0% { color: transparent; }
+  100% { color: .inherit; }
+}
+@-webkit-keyframes blink {
+  0% { color: transparent; }
+  100% { color: inherit; }
+}
+.bl-nk {
+  -webkit-animation: blink 0.5s linear infinite;
+  -moz-animation: blink 0.5s linear infinite;
+  animation: blink 0.5s linear infinite;
+} 

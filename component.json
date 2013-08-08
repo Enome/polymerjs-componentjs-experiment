@@ -1,0 +1,7 @@
+{
+  "name": "bl-nk",
+  "scripts": ["bl-nk.js"],
+  "main": "bl-nk.js",
+  "files": ["bl-nk.html"],
+  "styles": [ "bl-nk.css" ]
+}
